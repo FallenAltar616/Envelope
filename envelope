@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para ti</title>
+  <style>
+    body {
+      background: #f4f0ea;
+      font-family: 'Georgia', serif;
+      color: #3d3d3d;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.8;
+    }
+    h1 {
+      text-align: center;
+      font-weight: normal;
+      font-size: 2em;
+      margin-bottom: 40px;
+    }
+    .letter {
+      white-space: pre-line;
+    }
+    audio {
+      display: block;
+      margin: 30px auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>A ti, que sigues habitando un rincón secreto de mis inviernos</h1> <audio controls autoplay>
+    <source src="https://dl.dropboxusercontent.com/scl/fi/t3l4j12c5cfvg5tnxrf5i/Runnin-Home-To-You.mp3?rlkey=f77u9lmwlrzlprg83w1qyrwp2&dl=0" type="audio/mpeg">
+    Tu navegador no soporta audio HTML5.
+  </audio> <div class="letter">
+No sé si estas palabras te encontrarán en una tarde tranquila, o si simplemente se desvanecerán con el viento como un suspiro que no necesita respuesta. Pero aun así, nacieron. Y lo hacen porque hay cosas que no se deshacen con el paso del tiempo, solo aprenden a vivir en silencio.Este mensaje no busca interrumpir tu paz, ni alterar el curso de tus días. Solo quise enviarte un pequeño conjunto de símbolos que hablan en mi lugar, porque a veces el corazón no sabe cómo decir todo lo que siente sin romperse un poco.
+
+Las flores que te llegan son más que un gesto. Son un homenaje silencioso. El rojo profundo no es el de un amor que clama, sino el de una llama que, sin arder, aún ilumina. Cada una de ellas encierra un recuerdo, un susurro, una tarde que permanece suspendida como una pintura sin firma.
+
+El collar con la perla… es un reflejo de lo que nace de lo difícil. Una perla no aparece sin tiempo, sin presión, sin una historia que la moldee desde dentro. Es mi forma de mostrarte cuánto he aprendido del silencio, de lo que duele y transforma. Si alguna vez decides llevarla, que te recuerde que hubo alguien que valoró tu esencia, incluso cuando no supo protegerla.
+
+Y la oveja blanca... ella va contigo no como un regalo cualquiera, sino como una pequeña guardiana del cariño que nunca se fue. Blanca como lo que aún espera sin mancha, suave como lo que quiso ser consuelo y no supo cómo. Tal vez algún día, en una tarde cualquiera, la tomes entre tus manos y sientas que, en algún rincón del mundo, alguien te desea todo el bien posible... y aún guarda en su alma el lugar donde tú floreciste.
+
+No quiero abrir ninguna herida. Solo quería dejarte un pedazo de todo aquello que el tiempo no borró. No pido nada. Pero si algún día tus pasos te llevan de vuelta a mirar atrás... si alguna vez el viento te trae de regreso, aunque sea solo con la memoria... aquí seguiré.
+
+En silencio, pero con todo lo que aún vibra,
+
+[Tu nombre]
+
+  </div>
+</body>
+</html>
